@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 
 Here are some information about me!
 
-- 🏫 School : Dalian University of technology
-- 👋 QQ: 651599228
-- 📫 Email: dut_gaoxinzhi@qq.com
-- 🌱 I’m currently learning java
-- 😄 Pronouns: you see ! you can !
-- ⚡ Fun fact: basketball and electronics
-- 💬 Ask me about anything ! ha ha ha !
+- 🏫  School : Dalian University of technology
+- 🐧  My QQ : 651599228
+- 🙆‍♂️  Github Pages: [Gao Xinzhi](https://gaoxinzhi.github.io)
+- 📫  Email : dut_gaoxinzhi@qq.com
+- 🌱  I’m currently learning java
+- 😄  Pronouns : you see ! you can !
+- ⚡  Fun fact : basketball and electronics
+
+### 💬  If you have any questions, Free to Contact me !
 
 
 
