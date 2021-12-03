@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here are some information about me!
+
+- 🏫 School : Dalian University of technology
+- 👋 QQ: 651599228
+- 📫 Email: dut_gaoxinzhi@qq.com
+- 🌱 I’m currently learning java
+- 😄 Pronouns: you see ! you can !
+- ⚡ Fun fact: basketball and electronics
+- 💬 Ask me about anything ! ha ha ha !
+
+
+
+
