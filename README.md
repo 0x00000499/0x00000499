@@ -25,7 +25,7 @@ Here are some information about me!
 - 😄  Pronouns : you see ! you can !
 - ⚡  Fun fact : basketball and electronics
 
-### 💬  If you have any questions, Free to Contact me !
+### 💬  Have any questions? Free to contact me !
 
 
 
