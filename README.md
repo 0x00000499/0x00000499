@@ -28,7 +28,7 @@ Here are some information about me!
 ### 💬  Have any questions? Free to contact me !
 
 
-[![Gaoxinzhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaoXinzhi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Gaoxinzhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x00000499&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaoxinzhi)](https://github.com/anuraghazra/github-readme-stats)-->
 
