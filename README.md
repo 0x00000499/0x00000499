@@ -19,8 +19,7 @@ Here are some information about me!
 
 - 🏫  School : Dalian University of technology
 - 🐧  My QQ : 651599228
-- 🙆‍♂️  Github Pages: [Gao Xinzhi](https://gaoxinzhi.github.io)
-- 📫  Email : dut_gaoxinzhi@qq.com
+- 📫  Email : 651599228@qq.com
 - 🌱  I’m currently learning java
 - 😄  Pronouns : you see ! you can !
 - ⚡  Fun fact : basketball and electronics
