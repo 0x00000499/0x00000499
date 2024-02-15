@@ -15,17 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here are some information about me!
-
-- 🏫  School : Dalian University of technology
-- 🐧  My QQ : 651599228
-- 📫  Email : 651599228@qq.com
-- 🌱  I’m currently learning java
-- 😄  Pronouns : you see ! you can !
-- ⚡  Fun fact : basketball and electronics
-
-### 💬  Have any questions? Free to contact me !
-
 
 [![Gaoxinzhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x00000499&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
