@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Email：651599228@qq.com
 <!--
 **GaoXinzhi/GaoXinzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
